@@ -27,6 +27,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 
 group = 'com.theartofdev.edmodo'
 version = '1.2.7-PRC-SNAPSHOT'
+//rootProject.name = 'android-image-cropper'
 
 android {
 

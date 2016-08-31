@@ -2,4 +2,4 @@ include 'cropper'
 include 'sample'
 
 //https://github.com/dcendents/android-maven-gradle-plugin
-rootProject.name = 'android-image-cropper'
+//rootProject.name = 'android-image-cropper'
